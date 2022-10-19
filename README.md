@@ -8,25 +8,25 @@ This repository contains five implementations of one-dimensional classical neura
 Fig. 1. The network structure of AlexNet.
 </p>
 <p align="center">
-![image](https://user-images.githubusercontent.com/102946092/196730995-7b95b511-082e-4316-beb7-6f333a3004de.png)
+ <img src="https://user-images.githubusercontent.com/102946092/196730995-7b95b511-082e-4316-beb7-6f333a3004de.png">
 </p>
 <p align="center">
 Fig. 2. The network structure of VGGNet.
 </p>
 <p align="center">
-![image](https://user-images.githubusercontent.com/102946092/196730828-65280cf7-2ee4-4bb4-a86f-486ef5d47915.png)
+ <img src="https://user-images.githubusercontent.com/102946092/196730828-65280cf7-2ee4-4bb4-a86f-486ef5d47915.png">
 </p>
 <p align="center">
 Fig. 3. The network structure of ResNet50.
 </p>
 <p align="center">
-![image](https://user-images.githubusercontent.com/102946092/196731093-078a4d3e-b756-4a1a-875e-97da3fc3a288.png)
+ <img src="https://user-images.githubusercontent.com/102946092/196731093-078a4d3e-b756-4a1a-875e-97da3fc3a288.png">
 </p>
 <p align="center">
 Fig. 4. The network structure of MobileNetV2.
 </p>
 <p align="center">
-![image](https://user-images.githubusercontent.com/102946092/196731157-6c49845c-75d8-45c5-830b-adabaf58720f.png)
+ <img src="https://user-images.githubusercontent.com/102946092/196731157-6c49845c-75d8-45c5-830b-adabaf58720f.png">
 </p>
 <p align="center">
 Fig. 5. The network structure of Transformer.
