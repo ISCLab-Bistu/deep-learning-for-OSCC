@@ -31,7 +31,9 @@ Fig. 4. The network structure of MobileNetV2.
 <p align="center">
 Fig. 5. The network structure of Transformer.
 </p>
+
 ## Result
+
 According to Fig. 6, five network performance scenarios are presented. Among them, the Res-Net50 model is the highest in all evaluation metrics, with 91.17% accuracy, 91.60% precision, and 91.46% sensitivity. Then, the performance evaluation of Transformer results in 84.49% accuracy, 85.27% preci-sion, and 84.21% sensitivity, which is at the bottom of the five network models used in this study.
 <p align="center">
  <img src="https://user-images.githubusercontent.com/102946092/196731549-8be34b50-5c62-4e43-83fc-866823b1982d.png">
@@ -39,7 +41,9 @@ According to Fig. 6, five network performance scenarios are presented. Among the
 <p align="center">
 Fig. 6. Experimental results of deep learning methods. 
 </p>
+
 ## Application
+
 the five network models are deployed on edge computing device to develop a prototype system for intelligent detection of oral cancer. Currently, we have completed the offline testing of the system. The software interface of the system is developed based on Qt, as shown in Fig. 7.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/102946092/196734365-ec6b5305-a2ea-4892-8002-f8a93befbe4d.png">
@@ -47,5 +51,7 @@ the five network models are deployed on edge computing device to develop a proto
 <p align="center">
 Fig. 7. Software interface of oral cancer intelligent detection system.
 </p>
+
 ## Summary and Prospect
+
 In this study, we use five classical deep neural networks, including AlexNet, VGGNet, ResNet50, MobileNetV2, and Transformer, to perform oral cancer detection. After that, the five network models are deployed on edge computing device to develop a prototype system for intelligent detection of oral cancer. Currently, we have completed the offline testing of the system. Experiments show that the deep learning method has obvious advantages in Raman spectrum recognition. The next step of work will be to conduct animal experiments in vivo in order to test the system performance further.
