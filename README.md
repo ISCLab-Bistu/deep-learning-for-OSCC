@@ -34,7 +34,7 @@ Fig. 5. The network structure of Transformer.
 # Result
 According to Fig. 6, five network performance scenarios are presented. Among them, the Res-Net50 model is the highest in all evaluation metrics, with 91.17% accuracy, 91.60% precision, and 91.46% sensitivity. Then, the performance evaluation of Transformer results in 84.49% accuracy, 85.27% preci-sion, and 84.21% sensitivity, which is at the bottom of the five network models used in this study.
 <p align="center">
-![image](https://user-images.githubusercontent.com/102946092/196731549-8be34b50-5c62-4e43-83fc-866823b1982d.png)
+ <img src="https://user-images.githubusercontent.com/102946092/196731549-8be34b50-5c62-4e43-83fc-866823b1982d.png">
 </p>
 <p align="center">
 Fig. 6. Experimental results of deep learning methods. 
@@ -42,7 +42,7 @@ Fig. 6. Experimental results of deep learning methods.
 # Application
 the five network models are deployed on edge computing device to develop a prototype system for intelligent detection of oral cancer. Currently, we have completed the offline testing of the system. The software interface of the system is developed based on Qt, as shown in Fig. 7.
 <p align="center">
-![image](https://user-images.githubusercontent.com/102946092/196734365-ec6b5305-a2ea-4892-8002-f8a93befbe4d.png)
+  <img src="https://user-images.githubusercontent.com/102946092/196734365-ec6b5305-a2ea-4892-8002-f8a93befbe4d.png">
 </p>
 <p align="center">
 Fig. 7. Software interface of oral cancer intelligent detection system.
