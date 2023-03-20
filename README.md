@@ -41,7 +41,10 @@ According to Fig. 6, five network performance scenarios are presented. Among the
 <p align="center">
 Fig. 6. Experimental results of deep learning methods. 
 </p>
+![Experimental results of deep learning methods](https://user-images.githubusercontent.com/102946092/226388982-90ac3373-18ea-49fb-9213-df06ddf05ff2.png)
 
+
+![Experimental results of deep learning methods](https://user-images.githubusercontent.com/102946092/226390077-70153d81-49f5-453e-8916-daab11f7fea8.png)
 
 
 ## Application
