@@ -47,7 +47,7 @@ Fig. 6. Experimental results of deep learning methods.
 
 the five network models are deployed on edge computing device to develop a prototype system for intelligent detection of oral cancer. Currently, we have completed the offline testing of the system. The software interface of the system is developed based on Qt, as shown in Fig. 7.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/102946092/196734365-ec6b5305-a2ea-4892-8002-f8a93befbe4d.png">
+  <img src="https://github.com/ISCLab-Bistu/deep-learning-for-OSCC/blob/main/images/software.png">
 </p>
 <p align="center">
 Fig. 7. Software interface of oral cancer intelligent detection system.
