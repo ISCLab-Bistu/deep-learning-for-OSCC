@@ -34,7 +34,7 @@ Fig. 5. The network structure of Transformer.
 
 ## Result
 
-According to Fig. 6, five network performance scenarios are presented. Among them, the Res-Net50 model is the highest in all evaluation metrics, with 92.81% accuracy, 92.93% precision, and 92.86% recall. Then, the performance evaluation of Transformer results in 84.49% accuracy, 85.27% preci-sion, and 84.21% sensitivity, which is at the bottom of the five network models used in this study.
+According to Fig. 6, five network performance scenarios are presented. Among them, the Res-Net50 model is the highest in all evaluation metrics, with 92.81% accuracy, 92.93% precision, and 92.86% recall. Then, the performance evaluation of Transformer results in 85.81% accuracy, 86.01% preci-sion, and 85.10% recall, which is at the bottom of the five network models used in this study.
 <p align="center">
  <img src="https://user-images.githubusercontent.com/102946092/226380930-3a00f83a-d443-4e7d-be14-45f3f5989827.png">
 </p>
